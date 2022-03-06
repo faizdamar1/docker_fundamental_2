@@ -1,0 +1,6 @@
+github.com/faizdamar1/2_docker_fullstack/backend v0.0.0-20210624173519-62a41b81a4d6 h1:g1xX94dAfCchpCSmdJ32TTVvypmbFOIRaXo/r1ypv7M=
+github.com/faizdamar1/2_docker_fullstack/backend v0.0.0-20210624173519-62a41b81a4d6/go.mod h1:5/7W9qe/Pgqlb5NNBZ8iLE4o8w+WrSUNoCsWlU6duqA=
+github.com/lib/pq v1.9.0 h1:L8nSXQQzAYByakOFMTwpjRoHsMJklur4Gi59b6VivR8=
+github.com/lib/pq v1.9.0/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
+github.com/lib/pq v1.10.4 h1:SO9z7FRPzA03QhHKJrH5BXA6HU1rS4V2nIVrrNC1iYk=
+github.com/lib/pq v1.10.4/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
